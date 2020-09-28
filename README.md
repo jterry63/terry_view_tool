@@ -18,6 +18,11 @@ Or install it yourself as:
 
     $ gem install terry_view_tool
 
+## Usage
+
+```ruby
+TerryViewTool::Renderer.copyright('Jordan Terry', 'All rights reserved')
+```
 
 ## Development
 
